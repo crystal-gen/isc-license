@@ -1,0 +1,9 @@
+name: isc-license-test
+version: 0.1.0
+description: isc-license test
+
+copyright: 2015 Example, Inc.
+
+generators:
+  isc-license:
+    version: latest

@@ -6,3 +6,7 @@ gen:
   file:
     license:
       dest: LICENSE
+
+generators:
+  project:
+    version: latest
